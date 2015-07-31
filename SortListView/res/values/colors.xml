@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="main">#FFAED4</color>
+    
+    <color name="red">#900</color>
+    <color name="green">#090</color>
+    <color name="blue">#009</color>
+    <color name="black">#000</color>
+    
+    <color name="title_bg_color">#33ccff</color>
+    
+    <color name="fragment_a2_bg">#39AAC6</color>
+    
+    <color name="bar">#FFE7F2</color>
+    
+    <color name="transparency">#00000000</color>
+    
+    
+    <color name="subtranspar">#80ffffff</color>
+    
+    <!-- 二维码 -->
+     <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color> 
+    
+    <!-- listviewnest -->
+    
+    <color name="text_unpressed">@android:color/black</color>
+    <color name="text_pressed">#35BBB0</color>
+    <color name="view_unpressed">#ffffff</color>
+    <color name="view_pressed">#C9EBE8</color>
+    <color name="textcolor_blue">#28B6A6</color>
+    <color name="textcolor_lightgray">#C3C3C3</color>
+    <color name="jiangexian">#BABABA</color>
+    <color name="textcolor_lightgray2">#666666</color>
+    <color name="mianbgcolor">#EEEEEE</color>
+    <color name="gold">#b89766</color>
+    <color name="white">#ffffff</color>
+    <color name="grey21">#363636</color>
+    <color name="white_gray">#E8F2FE</color>
+    <color name="gray">#DBDBDB</color>
+    
+    <color name="color_video_text">#4c4948</color>
+    
+    
+</resources>
